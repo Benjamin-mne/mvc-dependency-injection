@@ -1,0 +1,26 @@
+[
+    {
+        "id": "tt0760437",
+        "title": "Ben 10",
+        "release": "2005–2008",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjg2ZjViMTktNWQ1Yy00ODZiLWE1OTgtNDY3MjI0OGUyNjNhXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_.jpg"
+    },
+    {
+        "id": "tt0120338",
+        "title": "Titanic",
+        "release": "1997",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+    },
+    {
+        "id": "tt1877830",
+        "title": "The Batman",
+        "release": "2022",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2MyNTAwZGEtNTAxNC00ODVjLTgzZjUtYmU0YjAzNmQyZDEwXkEyXkFqcGdeQXVyNDc2NTg3NzA@._V1_.jpg"
+    },
+    {
+        "id": "tt0372784",
+        "title": "Batman Begins",
+        "release": "2005",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    }
+]
